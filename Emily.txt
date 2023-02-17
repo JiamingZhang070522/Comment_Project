@@ -1,0 +1,7 @@
+This semester in Data Science we covered the topics of csv file, debugging, and coding and began the study of recursion, which we will continue into the second semester. In addition to daily homework and frequent quizzes, we had two in-class unit tests, a cumulative final exam, and two projects, one on generating comment and one on modeling for SRP.
+Emily, your performance in this class is solid, scoring a 85. You still have room to grow and expand your thinking. Keep working hard!
+This semester, you showed particular strength on our learning outcome of 'Express creativity using coding and technology in a variety of contexts' when you had unique solutions to the Fibonacci sequence problem. I was uniquely impressed by your ability and aptiude for this outcome, and I'm hoping you'll help your classmates get to the same level you're at.
+On the other hand, you had some difficulty with our outcome of 'Understand and be able to use a variety of data types,control structures, and algorithmic problem-solving techniques in their programming' after you had difficulty with dictionaries and large chunks of data. I'd encourage you to reach out to me or your classmates for help figuring out this outcome, and to focus on improving here for the next semester.
+You have never miss a single assignment. Keep up the great work!
+I appreciate your attendence in class! Keep up the great work
+While you had some trouble with tests,I'm confident in your ability as we go foward. Great job overall.

@@ -1,0 +1,7 @@
+This semester in Data Science we covered the topics of csv file, debugging, and coding and began the study of recursion, which we will continue into the second semester. In addition to daily homework and frequent quizzes, we had two in-class unit tests, a cumulative final exam, and two projects, one on generating comment and one on modeling for SRP.
+Bob, your performance has been consistently excellent, scoring a 95. Your programs and solutions are clever and efficient, and I hope you continue to engage with Computer Science in the future.
+This semester, you showed particular strength on our learning outcome of 'Identify/characterize/define a programming problem' when you speedily completed our first test. I was uniquely impressed by your ability and aptiude for this outcome, and I'm hoping you'll help your classmates get to the same level you're at.
+On the other hand, you had some difficulty with our outcome of 'Identify and repair coding errors in a program' after you had small issues on problem sets that snowball into big errors. I'd encourage you to reach out to me or your classmates for help figuring out this outcome, and to focus on improving here for the next semester.
+You have only turn in half of the assignments this semester, please communitcate with me beforehand if you have any questions.
+I appreciate your attendence in class! Keep up the great work
+I'm impressed with your progress this semester. Looking forward to the next!
